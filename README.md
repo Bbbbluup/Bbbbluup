@@ -25,10 +25,7 @@ Em transição de carreira para tecnologia, com foco em desenvolvimento web, ló
 
 📚 Projetos e Estudos
 
-📌 Em construção — os próximos repositórios irão aparecer aqui:
-	•	Portfólio web (HTML/CSS)
-	•	Exercícios de lógica de programação
-	•	Estudos de Engenharia de Software
+📌 Em construção 
 
 ⸻
 
